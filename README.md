@@ -5,8 +5,6 @@ hypo-MDS+AA four models of disease diagnosis（model：svm，bayes，cnn，Decis
 可以通过[colsons.site/disease/index/](#colsons.site/disease/index/)访问
 （结果作为智能辅助诊断结果，并非绝对严谨）
 
-<a href="colsons.site/disease/index/" target="_blank">跳到自己博客列表</a>
-
 data中存放数据集
 log为cnn模型的日志结果
 res为cnn模型loaddown
