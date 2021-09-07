@@ -10,5 +10,5 @@ log为cnn模型的日志结果
 res为cnn模型loaddown
 
 evel.py为评估系数计算文件
-*—model.py/ipynb 为模型运行文件
+*_model.py/ipynb 为模型运行文件
 SVM.py与util为svm_model.py前置函数类
