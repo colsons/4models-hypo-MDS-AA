@@ -1,4 +1,14 @@
 # 4models-hypo-MDS-AA
+---
+tags:
+  - hypo-MDS AA
+  - tree
+  - bayes
+  - CNN
+  - Decision Tree
+  - python
+---
+
 hypo-MDS+AA four models of disease diagnosis（model：svm，bayes，cnn，Decision Tree）
 
 此诊断模型部署在阿里云服务器，
